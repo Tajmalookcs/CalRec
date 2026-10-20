@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description">Records your phone calls to a private folder inside the CallRec app. Learning project for personal use.</string>
+</resources>
